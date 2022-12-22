@@ -121,15 +121,15 @@ A veces queremos iterar sobre cada par clave-valor en nuestro objeto. Con las ma
 
 ```javascript
 const usuario = {
-    username: 'juan.perez',
-    password: 'loremipsumpwd123',
-    lovesJavascript: true,
-    favoriteNumber: 42
+  username: 'juan.perez',
+  password: 'loremipsumpwd123',
+  lovesJavascript: true,
+  favoriteNumber: 42
 };
 
 for (let clave in usuario){
-    console.log(clave);
-    console.log(usuario[clave]);
+  console.log(clave);
+  console.log(usuario[clave]);
 }
 
 // username
