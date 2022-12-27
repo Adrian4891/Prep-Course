@@ -4,10 +4,13 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background:  url("https://fondosmil.com/fondo/36861.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+
 }
 
 h1 { 
-    color:#072974;
     text-align: center;
 }
 
@@ -32,7 +35,7 @@ img {
     padding: 50px;
     margin: 20px 0px;
     background-color: #bcc8e4;
-    border: 1px solid #babac2;     
+    border: 1px solid #babac2;
 }
 
 #spanId {
