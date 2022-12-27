@@ -127,7 +127,7 @@ div {
 
 ## Introducción a Flexbox
 
-Introducido en CSS3, Flexbos es una nueva e interesante característica. La misma nos permite posicionar nuestros elementos en relación a su _parent_ y entre ellos. Ya no necesitamos aplicar "hacks" para cosas como centrar elementos. Esto nos permite que el diseño "mobile-friendly" sea excelente y nos hace dedicar menos tiempo tratando de posicionar elementos como corresponde. Flexbox se puede complicar muy rápido, pero veremos los aspectos básicos a continuación.
+Introducido en CSS3, Flexbox es una nueva e interesante característica. La misma nos permite posicionar nuestros elementos en relación a su _parent_ y entre ellos. Ya no necesitamos aplicar "hacks" para cosas como centrar elementos. Esto nos permite que el diseño "mobile-friendly" sea excelente y nos hace dedicar menos tiempo tratando de posicionar elementos como corresponde. Flexbox se puede complicar muy rápido, pero veremos los aspectos básicos a continuación.
 
 ### ***display: flex*** e ***inline-flex***
 
